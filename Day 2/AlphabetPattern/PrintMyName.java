@@ -5,7 +5,7 @@ public class PrintMyName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter n:");
-        int n = Integer.parseInt(sc.nextLine());
+        int n =sc.nextInt();
         for(int i=0;i<n;i++){
             printA(n,i);
             System.out.print("  ");
