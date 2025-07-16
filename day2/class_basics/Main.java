@@ -1,4 +1,4 @@
-package day2;
+package day2.class_basics;
 
 
 public class Main{

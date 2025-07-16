@@ -1,4 +1,4 @@
-package day2;
+package day2.class_basics;
 
  class Product {
 	String[] type= {"Electronics","Clothes","Food"};
